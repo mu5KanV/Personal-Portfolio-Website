@@ -96,7 +96,11 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
+<<<<<<< HEAD
     background: url('./../images/home.jpg') no-repeat;
+=======
+    background: url('images/home.jpg') no-repeat;
+>>>>>>> ccabeb9a24a2654bcc2146e2e10fdcdcbb8016bd
     background-size: contain;
     background-position: right;
 }
